@@ -1,1 +1,1 @@
-wp.pl: https//wp.pl
+gra: https://wp.pl
